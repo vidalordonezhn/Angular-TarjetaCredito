@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "tarjetacredito-390de": {
+      "hosting": {
+        "TarjetaCredito": [
+          "tarjetacredito-390de"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "tarjetacredito-390de"
+  }
+}
